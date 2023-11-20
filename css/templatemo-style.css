@@ -415,7 +415,7 @@ p {
 #video .video-container {
 	display: flex;
 	flex-wrap: wrap;
-	gap: 30px;
+	gap: 25px;
 	justify-content: center;
 	padding: 10px;
 }
